@@ -22,8 +22,8 @@ Terraform version | Controller version | Terraform provider version
 
 Module Name | Version | Description
 :--- | :--- | :---
-[terraform-aviatrix-modules/oci-transit/aviatrix](https://registry.terraform.io/modules/terraform-aviatrix-modules/azure-transit/aviatrix/latest) | 3.0.1 | This module deploys a VCN with Aviatrix transit gateways.
-[terraform-aviatrix-modules/oci-spoke/aviatrix](https://registry.terraform.io/modules/terraform-aviatrix-modules/azure-spoke/aviatrix/latest) | 3.0.0 | This module deploys a VCN and an Aviatrix spoke gateway in OCI and attaches it to an Aviatrix Transit Gateway
+[terraform-aviatrix-modules/oci-transit/aviatrix](https://registry.terraform.io/modules/terraform-aviatrix-modules/oci-transit/aviatrix/latest) | 3.0.1 | This module deploys a VCN with Aviatrix transit gateways.
+[terraform-aviatrix-modules/oci-spoke/aviatrix](https://registry.terraform.io/modules/terraform-aviatrix-modules/oci-spoke/aviatrix/latest) | 3.0.0 | This module deploys a VCN and an Aviatrix spoke gateway in OCI and attaches it to an Aviatrix Transit Gateway
 [oci-flex-vm](./modules/flex-compute) | N/A | Local OCI module to deploy Flex virtual machines
 [network-security-groups](,/modules/network-security-groups) | N/A | Local OCI module to create NSGs
 
